@@ -38,12 +38,6 @@
 
 ###
 
-<div data-importer="stats" align="right">
-  <img src="https://raw.githubusercontent.com/MuraokaCode/MuraokaCode/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&custom_title=Estat%C3%ADsticas%20do%20GitHub" height="180" alt="stats graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/MuraokaCode/MuraokaCode/snake-output/snake.svg" alt="Snake animation" />
