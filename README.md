@@ -34,7 +34,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">Olá! Sou estudante de Engenharia de Software e estou desenvolvendo minhas habilidades em programação, com foco atual em Python e lógica de programação.<br><br>Tenho interesse em desenvolvimento de software, resolução de problemas e aprendizado contínuo. Meu objetivo é transformar meus estudos em projetos práticos e evoluir profissionalmente na área de tecnologia.</h5>
+<p data-importer="text" align="left">Olá! Sou estudante de Engenharia de Software e estou desenvolvendo minhas habilidades em programação, com foco atual em Python e lógica de programação.<br><br>Tenho interesse em desenvolvimento de software, resolução de problemas e aprendizado contínuo. Meu objetivo é transformar meus estudos em projetos práticos e evoluir profissionalmente na área de tecnologia.</p>
 
 ###
 
